@@ -1,0 +1,18 @@
+.jajal{
+    tr{
+        border: 1px solid black;
+    }
+}
+
+.jajal2,th, tr, td{
+    border: 1px solid black;
+}
+
+.hero{
+    display: flex;
+
+}
+
+.main{
+    
+}
