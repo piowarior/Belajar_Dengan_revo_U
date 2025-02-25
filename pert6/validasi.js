@@ -8,8 +8,6 @@ function panggil(){
 }
 
 
-
-
 document.getElementById("tombol").addEventListener("click", function () {
     panggil()
 } )
